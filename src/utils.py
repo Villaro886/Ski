@@ -216,12 +216,12 @@ class Discord:
             color=491519
         )
         embed.set_author(
-            name = "RoSpeed",
+            name = "Yzel Finder",
             icon_url = "https://i.ibb.co/YXDYq2s/images-5-removebg-preview.png"
          )
         embed.set_thumbnail(url = "https://i.ibb.co/YXDYq2s/images-5-removebg-preview.png")
         embed.set_footer(
-            text = "© Made by @realnovak | RoSpeed",
+            text = "© Made by @shura0082 | Yzel Services",
             icon_url = "https://i.ibb.co/YXDYq2s/images-5-removebg-preview.png"
         )
         embed.add_embed_field(
