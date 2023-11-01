@@ -1,6 +1,6 @@
 {
     "performance": {
-        "process": 2,
+        "process": 4,
         "threads": 4000
     },
     "request": {
@@ -10,8 +10,8 @@
     },
     "groupRanges": {
         "method": {
-            "sortedIds": true,
-            "randomIds": false
+            "sortedIds": false,
+            "randomIds": true
         },
         "min": 1234000,
         "max": 123400000,
