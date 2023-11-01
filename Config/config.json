@@ -13,8 +13,8 @@
             "sortedIds": false,
             "randomIds": true
         },
-        "min": 32000000,
-        "max": 33400000,
+        "min": 1234000,
+        "max": 123400000,
         "batchsize": 100
     },
     "webhook": {
@@ -22,7 +22,7 @@
         "groupPing": true
     },
     "proxy": {
-        "scrapeProxies": true,
+        "scrapeProxies": false,
         "sources": [
            "https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt"
        ]
