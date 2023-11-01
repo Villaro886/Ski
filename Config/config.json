@@ -1,17 +1,17 @@
 {
     "performance": {
         "process": 2,
-        "threads": 400
+        "threads": 4000
     },
     "request": {
         "module": "socket",
         "timeout": 5,
-        "proxyLess": true
+        "proxyLess": false
     },
     "groupRanges": {
         "method": {
-            "sortedIds": false,
-            "randomIds": true
+            "sortedIds": true,
+            "randomIds": false
         },
         "min": 1234000,
         "max": 123400000,
