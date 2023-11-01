@@ -6,7 +6,7 @@
     "request": {
         "module": "socket",
         "timeout": 5,
-        "proxyLess": false
+        "proxyLess": true
     },
     "groupRanges": {
         "method": {
@@ -22,7 +22,7 @@
         "groupPing": true
     },
     "proxy": {
-        "scrapeProxies": false,
+        "scrapeProxies": true,
         "sources": [
            "https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt"
        ]
