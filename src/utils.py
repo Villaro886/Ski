@@ -197,7 +197,7 @@ class Discord:
             
         self.webhook = DiscordWebhook(
             url=webhookUrl,
-            username="RoSpeed v2.5",
+            username="Slow Finder",
             content=dping,
             rate_limit_retry=True
             )
@@ -217,12 +217,12 @@ class Discord:
         )
         embed.set_author(
             name = "Yzel Finder",
-            icon_url = "https://i.ibb.co/YXDYq2s/images-5-removebg-preview.png"
+            icon_url = "https://media.discordapp.net/attachments/1168405390426394742/1169473330785570946/images.png?ex=655587e9&is=654312e9&hm=6f5423c5a47dcd75fef77bf8e3fc5107535971d109c2868ed8ae3136e819c9db&"
          )
-        embed.set_thumbnail(url = "https://i.ibb.co/YXDYq2s/images-5-removebg-preview.png")
+        embed.set_thumbnail(url = "https://media.discordapp.net/attachments/1168405390426394742/1169473330785570946/images.png?ex=655587e9&is=654312e9&hm=6f5423c5a47dcd75fef77bf8e3fc5107535971d109c2868ed8ae3136e819c9db&")
         embed.set_footer(
             text = "© Made by @shura0082 | Yzel Services",
-            icon_url = "https://i.ibb.co/YXDYq2s/images-5-removebg-preview.png"
+            icon_url = "https://media.discordapp.net/attachments/1168405390426394742/1169473330785570946/images.png?ex=655587e9&is=654312e9&hm=6f5423c5a47dcd75fef77bf8e3fc5107535971d109c2868ed8ae3136e819c9db&"
         )
         embed.add_embed_field(
             name = "Group ID",
