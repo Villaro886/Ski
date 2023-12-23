@@ -216,13 +216,13 @@ class Discord:
             color=491519
         )
         embed.set_author(
-            name = "Yzel Finder",
-            icon_url = "https://media.discordapp.net/attachments/1168405390426394742/1169473330785570946/images.png?ex=655587e9&is=654312e9&hm=6f5423c5a47dcd75fef77bf8e3fc5107535971d109c2868ed8ae3136e819c9db&"
+            name = "Core UI Finder",
+            icon_url = "https://cdn.discordapp.com/icons/1182654951692959805/a_4a2893448c591f0b60fb263e8ec6c04d.gif?size=4096"
          )
-        embed.set_thumbnail(url = "https://media.discordapp.net/attachments/1168405390426394742/1169473330785570946/images.png?ex=655587e9&is=654312e9&hm=6f5423c5a47dcd75fef77bf8e3fc5107535971d109c2868ed8ae3136e819c9db&")
+        embed.set_thumbnail(url = "https://cdn.discordapp.com/icons/1182654951692959805/a_4a2893448c591f0b60fb263e8ec6c04d.gif?size=4096")
         embed.set_footer(
-            text = "© Made by @shura0082 | Yzel Services",
-            icon_url = "https://media.discordapp.net/attachments/1168405390426394742/1169473330785570946/images.png?ex=655587e9&is=654312e9&hm=6f5423c5a47dcd75fef77bf8e3fc5107535971d109c2868ed8ae3136e819c9db&"
+            text = "Hi I am nel | Core UI",
+            icon_url = "https://cdn.discordapp.com/icons/1182654951692959805/a_4a2893448c591f0b60fb263e8ec6c04d.gif?size=4096"
         )
         embed.add_embed_field(
             name = "Group ID",
